@@ -104,3 +104,7 @@ Feel free to reach out if you want to collaborate, discuss projects, or just say
 📬 hasansyed2047@gmail.com
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syedhasan01/syedhasan01/main/header.svg" alt="Animated Header"/>
+</p>
+
