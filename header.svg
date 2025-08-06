@@ -1,0 +1,28 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: bold 36px sans-serif;
+      fill: #61dafb;
+      animation: fadeIn 3s ease-in-out infinite alternate;
+    }
+    .subtitle {
+      font: 20px sans-serif;
+      fill: white;
+      animation: moveText 4s ease-in-out infinite;
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes moveText {
+      0% { transform: translateY(0px); }
+      100% { transform: translateY(10px); }
+    }
+    svg {
+      background-color: #0d1117;
+    }
+  </style>
+  <text x="50%" y="60" class="title" dominant-baseline="middle" text-anchor="middle">Syed Mohammed Hasan Naqvi</text>
+  <text x="50%" y="120" class="subtitle" dominant-baseline="middle" text-anchor="middle">Computer Systems Engineer | AI Specialist</text>
+</svg>
+
